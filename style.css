@@ -1,0 +1,14 @@
+body {
+	font-family: Helvetica;
+}
+
+#container {
+	display: flex;
+	align-items: center;
+	flex-direction: colunm;
+}
+
+img{
+	width: 300px;
+	height: 300px;
+}
